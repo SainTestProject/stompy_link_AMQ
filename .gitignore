@@ -52,3 +52,6 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
+# 禁止上传Pycharm的配置文件
+.idea/
+
